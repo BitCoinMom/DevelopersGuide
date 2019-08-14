@@ -1,3 +1,4 @@
+![headshot](susie2.jpeg)
 # HelloWorld
 Hello this is my first repository
 
@@ -8,3 +9,4 @@ My new hobbie is paddleboarding.
 
 MY KIDS
 I have 3 kids and 3 dogs and a cat. A whole family!
+Well I forgot my two extra dogs.
