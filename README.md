@@ -1,4 +1,4 @@
-![headshot] (susie2.jpeg)
+![headshot](susie2.jpeg)
 # HelloWorld
 Hello this is my first repository
 
